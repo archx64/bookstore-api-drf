@@ -8,6 +8,8 @@ djangorestframework = "*"
 black = "*"
 django-cors-headers = "*"
 psycopg = {version = "*", extras = ["binary"]}
+gunicorn = "*"
+dj-database-url = "*"
 
 [dev-packages]
 
